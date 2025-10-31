@@ -1,0 +1,35 @@
+¿Qué es SQL?
+https://www.aluracursos.com/blog/que-es-sql
+
+Guía de Instalación de MySQL Server y MySQL Workbench en Diferentes Sistemas Operativos"
+https://www.aluracursos.com/blog/descargar-mysql-serve
+
+SELECT, INSERT, UPDATE y DELETE en SQL: aprende a utilizar cada uno
+https://www.aluracursos.com/blog/select-insert-update-delete-sql
+
+En SQL, null es null, vacío está vacío
+https://www.aluracursos.com/blog/en-sql-null-es-null-vacio-es-vacio
+
+¿Qué es SQL y NoSQL?
+https://www.youtube.com/watch?v=cLLKVd5CNLc&t=630s
+
+Banco de Datos MySQL | Contenidos ONE
+https://www.youtube.com/watch?v=8J0AoPZMVxA
+
+LIVE CODING de BASES DE DATOS: probando Oracle Database #DobladoConIA #LabsOracle
+https://www.youtube.com/watch?v=xA6UO77vQsU&t=70s
+
+BASE DE DATOS ORACLE: como guardar DOCUMENTOS en formato JSON #DobladoConIA #LabsOracle
+https://www.youtube.com/watch?v=7QOK6hPySLg
+
+JSON Duality en Oracle: integra JSON con tu BASE DE DATOS RELACIONAL #DobladoConIA #LabsOracle
+https://www.youtube.com/watch?v=xWgjXOOUhcQ
+
+VECTORES e INTELIGENCIA ARTIFICIAL en Oracle DATABASE: cómo funcionan juntos#DobladoConIA#LabsOracle
+https://www.youtube.com/watch?v=FPygEANBTiM
+
+¿Qué es LOW CODE y cómo se usa en Oracle APEX? LIVE CODING explicado #DobladoConIA #LabsOracle
+https://www.youtube.com/watch?v=njQXHOuxluY
+
+Aprovecha lo mejor de LOW CODE e IA en Oracle APEX: productividad al máximo #DobladoConIA#LabsOracle
+https://www.youtube.com/watch?v=r3l-MXNaxEk
